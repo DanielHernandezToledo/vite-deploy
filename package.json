@@ -8,7 +8,6 @@
     "preview": "vite preview",
     "sass": "sass --watch ./src/assets/styles/scss:./src/assets/styles/css"
   },
-  "homepage": "front.danielhernandeztoledo.com",
   "dependencies": {
     "axios": "^0.27.2",
     "bootstrap": "^5.1.3",
