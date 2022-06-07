@@ -8,6 +8,7 @@
     "preview": "vite preview",
     "sass": "sass --watch ./src/assets/styles/scss:./src/assets/styles/css"
   },
+  "homepage": "https://calm-taiga-52744.herokuapp.com/home",
   "dependencies": {
     "axios": "^0.27.2",
     "bootstrap": "^5.1.3",
