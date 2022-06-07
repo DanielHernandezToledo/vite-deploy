@@ -10,7 +10,7 @@ function App() {
   return (
       <BrowserRouter>
         <Routes>
-            <Route path='https://calm-taiga-52744.herokuapp.com/' element={ <Home/> } />
+            <Route path='../index.html' element={ <Home/> } />
         </Routes>
       </BrowserRouter>
   )
